@@ -1,0 +1,18 @@
+{
+	"name": "node-gadu-echo",
+	"description": "Gadu-Gadu echo bot",
+	"version": "0.0.1",
+	"homepage": "https://github.com/mpapierski/node-gadu-echo/",
+	"author": {
+		"name": "Michał Papierski",
+		"url": "http://michal.papierski.net/",
+		"email": "michal@papierski.net"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/mpapierski/node-gadu-echo.git"
+	},
+	"dependencies": {
+		"gadu": "0.0.2"
+	}
+}
